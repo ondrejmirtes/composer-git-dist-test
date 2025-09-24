@@ -1,0 +1,17 @@
+{
+    "name": "ondrejmirtes/composer-git-dist-test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ondrej Mirtes",
+            "email": "ondrej@mirtes.cz"
+        }
+    ],
+    "require": {},
+    "source": {
+        "type": "zip",
+        "url": "https://github.com/phpstan/phpstan/archive/refs/heads/2.1.x.zip",
+        "reference": ""
+    }
+}
