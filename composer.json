@@ -10,8 +10,7 @@
     ],
     "require": {},
     "source": {
-        "type": "zip",
-        "url": "https://github.com/phpstan/phpstan/archive/refs/heads/2.1.x.zip",
-        "reference": ""
+        "type": "git",
+        "url": "https://github.com/ondrejmirtes/phpstan-dist-git.git"
     }
 }
