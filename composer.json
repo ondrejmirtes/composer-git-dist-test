@@ -8,10 +8,13 @@
             "email": "ondrej@mirtes.cz"
         }
     ],
+    "autoload": {
+        "files": ["bootstrap.php"]
+    },
     "require": {},
     "source": {
         "type": "git",
         "url": "https://github.com/ondrejmirtes/phpstan-dist-git.git",
-        "reference": "0.1.5"
+        "reference": "0.1.6"
     }
 }
