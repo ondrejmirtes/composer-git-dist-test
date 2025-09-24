@@ -11,6 +11,7 @@
     "require": {},
     "source": {
         "type": "git",
-        "url": "https://github.com/ondrejmirtes/phpstan-dist-git.git"
+        "url": "https://github.com/ondrejmirtes/phpstan-dist-git.git",
+        "reference": ""
     }
 }
