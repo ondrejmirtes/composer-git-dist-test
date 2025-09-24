@@ -12,6 +12,6 @@
     "source": {
         "type": "git",
         "url": "https://github.com/ondrejmirtes/phpstan-dist-git.git",
-        "reference": ""
+        "reference": "0.1.3"
     }
 }
